@@ -6,3 +6,4 @@ function clicked(){
 example[0].addEventListener('click', clicked);
 example[1].addEventListener('click', clicked);
 example[2].addEventListener('click', clicked);
+
