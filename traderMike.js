@@ -1,7 +1,6 @@
-const navbar = document.getElementsByClassName('class1');
-//const select = navbar.getElementsByClassName('class1');
-//jbfjksbvkdbv
+const example = document.getElementsByClassName('class1');
+
 function clicked(){
     console.log("clicked");
 }
-navbar.addEventListener('click', clicked);
+example[0].addEventListener('click', clicked);
